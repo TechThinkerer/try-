@@ -1,0 +1,13 @@
+C:\Users\233609\source\repos\Customer Preview\Customer Preview\obj\Debug\Customer.csproj.AssemblyReference.cache
+C:\Users\233609\source\repos\Customer Preview\Customer Preview\obj\Debug\Customer.csproj.SuggestedBindingRedirects.cache
+C:\Users\233609\source\repos\Customer Preview\Customer Preview\obj\Debug\Customer_Preview.Form1.resources
+C:\Users\233609\source\repos\Customer Preview\Customer Preview\obj\Debug\Customer_Preview.Form2.resources
+C:\Users\233609\source\repos\Customer Preview\Customer Preview\obj\Debug\Customer_Preview.Properties.Resources.resources
+C:\Users\233609\source\repos\Customer Preview\Customer Preview\obj\Debug\Customer.csproj.GenerateResource.cache
+C:\Users\233609\source\repos\Customer Preview\Customer Preview\obj\Debug\Customer.csproj.CoreCompileInputs.cache
+C:\Users\233609\source\repos\Customer Preview\Customer Preview\bin\Debug\Customer Preview.exe.config
+C:\Users\233609\source\repos\Customer Preview\Customer Preview\bin\Debug\Customer Preview.exe
+C:\Users\233609\source\repos\Customer Preview\Customer Preview\bin\Debug\Customer Preview.pdb
+C:\Users\233609\source\repos\Customer Preview\Customer Preview\obj\Debug\Customer Preview.exe
+C:\Users\233609\source\repos\Customer Preview\Customer Preview\obj\Debug\Customer Preview.pdb
+C:\Users\233609\source\repos\Customer Preview\Customer Preview\obj\Debug\Customer_Preview.validations.resources
